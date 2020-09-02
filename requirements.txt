@@ -1,12 +1,12 @@
 pymc3 >=3.9.2
 arviz >=0.9.0
 pandas
-jupyterlab
+#jupyterlab
 numpy
 scipy
 mkl
 conda-build
-mkl-service
+#mkl-service
 boto3
 paramiko
 s3fs
